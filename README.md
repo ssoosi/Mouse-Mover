@@ -22,3 +22,9 @@ Clone this repository:
 ```bash
 git clone https://github.com/<your-username>/mouse-mover.git
 cd mouse-mover
+
+```bash
+Install the required dependency:
+
+Shell
+python -m pip install pyautogui
