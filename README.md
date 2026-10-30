@@ -55,15 +55,15 @@ Ctrl + C
 
 in the terminal window where the program is running.
 
-##Disclaimer
+## Disclaimer
 
 This project is intended for educational and automation purposes. Users are responsible for ensuring compliance with their organization's policies and any applicable terms of use.
 
-##Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
